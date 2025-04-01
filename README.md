@@ -1,12 +1,6 @@
-# React + Vite
+# 🤖 Introduction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This website project is built using React.js, JavaScript, and Tailwind CSS for the user interface, with Appwrite handling the Trending Movies Algorithm database. I created this project as a hands-on way to deepen my understanding of React.js and improve my front-end development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Through this project, I'm exploring key concepts like component-based architecture, state management, API integration, and modern styling techniques. It’s a great way for me to practice building dynamic and responsive web applications while working with real-world technologies.
